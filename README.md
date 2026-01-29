@@ -1,2 +1,9 @@
-# Data_analytics_practice
-Practice project for SQL , Excel and Power BI 
+
+# Data Analytics Practice
+
+This repository contains my practice work for:
+- SQL
+- Excel
+- Power BI
+
+I am a beginner and using this repository to learn and improve my data analytics skills.
